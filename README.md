@@ -1,6 +1,6 @@
 # tom-jazz-school
-Site de escola de música
 
-HTML e Css
+HTML|Css
+Only
 
 ![Site](Site.png)
